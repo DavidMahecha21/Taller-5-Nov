@@ -10,4 +10,9 @@ class SmartShippingCalculatorTest {
         Order o = new Order("o1", "c1", "Bogotá", 100, 4);
         assertEquals(10.0, calc.calculate(o));
     }
+
+        @Test void sumaRecargoFueraDeBogota() {
+        Order o = new Order("o1", "c1", "Medellín", 100, 4);
+        assertEquals(15.0, calc.calculate(o));
+    }
 }
