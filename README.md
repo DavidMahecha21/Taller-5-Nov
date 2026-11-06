@@ -1,5 +1,5 @@
 # Taller: Un Proxy para migrar sin salir de main
-
+## Integrantes: David Orlando Mahecha Casallas 2220242008 - Jhon Alexander Misas Gonzales 2220242047
 ## Preguntas de reflexión
 
 ### 1. ¿Qué habría pasado con una rama feature/smart-shipping de tres semanas mientras el resto del equipo seguía cambiando main?
